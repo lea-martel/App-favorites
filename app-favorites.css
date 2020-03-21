@@ -1,0 +1,169 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: thistle;
+
+
+}
+
+#logophone{
+
+margin-right: 0%;
+
+}
+
+
+
+.photo{
+
+    display: flex;
+    justify-content: space-between;
+
+
+
+
+}
+
+.photo1{
+
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 50%;
+    margin-top: -7.25%;
+
+
+}
+
+
+.texte{
+
+    display: flex;
+    flex-direction: column;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: darkcyan;
+    margin-bottom: 20%;
+    margin-left: 20%;
+    margin-top: 0%;
+}
+
+
+.texte1 {
+       
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+       text-align: center;
+       font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       font-size: 20px;
+       margin-right: 20px;
+       margin-bottom: 30%;
+
+
+}
+
+.box{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 5vw;
+
+
+
+
+}
+
+.snapchat{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+    margin-top: -900%;
+    margin-left: 450%;
+
+
+}
+
+
+.netflix{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 180px;
+    height: 100px;
+    margin-top: 0%;
+    margin-left: 400%;
+
+}
+
+
+.spotify{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 250px;
+    height: 75px;
+    margin-left: 350%;
+    margin-bottom: 200%;
+
+}
+
+
+
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 20px;
+    height: 10vh;
+    margin-bottom: 110px;
+    background-color: white ;
+    justify-content: center;
+
+
+}
+
+
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    list-style-type: none;
+
+
+}
+
+nav li {
+    padding: 20px;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+
+
+}
+
+nav li a {
+    
+    font-size: 20px;
+    text-decoration: none;
+    display: flex;
+    color: darkcyan;
+
+
+
+}
+
+nav li a:hover {
+    color: darkslategrey;
+
+
+}   
+
+
